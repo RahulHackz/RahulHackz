@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RahulHackz
-- 👀 I’m interested in IT, Cyber Security, Networking, Cloud.
+- 👀 I’m working in IT, Cyber Security, Networking, Cloud since 2018
 - 🌱 I’m currently preparing for CISSP.
 - 📫 Drop a mail to hi.rahulhackz@gmail.com to get in touch with me.
 
